@@ -1,3 +1,6 @@
+# avoid uploading sparcs-2022.csv
+sparcs-2022.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
